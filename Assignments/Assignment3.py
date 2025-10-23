@@ -26,7 +26,7 @@ while True:
         print(f"Price: ${entree}")
         total = total + entree
         print(f"Current total: ${total}\n")
-    elif user_input == "desert":
+    elif user_input == "dessert":
         print(f"Price: ${dessert}")
         total = total + dessert
         print(f"Current total: #{total}\n")
